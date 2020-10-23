@@ -1,5 +1,5 @@
 # Sits-API
-Construction of an API for SITS package developed in R language
+Construction of an API for SITS package developed in R language with package OpenCPU
 
 ## Pre-Requisites:
 - Have the R Language and its R-Studio IDE installed
